@@ -54,3 +54,4 @@ C:\Users\Lenovo-PC\Documents\MiniProjectASP\Passport\Passport\FixingSystem\bin\E
 C:\Users\Lenovo-PC\Documents\MiniProjectASP\Passport\Passport\FixingSystem\bin\EntityFramework.SqlServer.dll
 C:\Users\Lenovo-PC\Documents\MiniProjectASP\Passport\Passport\FixingSystem\bin\EntityFramework.xml
 C:\Users\Lenovo-PC\Documents\MiniProjectASP\Passport\Passport\FixingSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo-PC\Documents\MiniProjectASP\Passport\Passport\FixingSystem\obj\Debug\FixingSystem.csprojResolveAssemblyReference.cache

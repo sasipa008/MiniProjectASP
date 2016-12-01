@@ -157,11 +157,13 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\detailsController.cs" />
+    <Compile Include="Controllers\FixingStatusController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\detail.cs" />
+    <Compile Include="Models\FixingStatus.cs" />
     <Compile Include="Models\FixingSystemContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -208,6 +210,11 @@
     <Content Include="Views\details\Details.cshtml" />
     <Content Include="Views\details\Edit.cshtml" />
     <Content Include="Views\details\Index.cshtml" />
+    <Content Include="Views\FixingStatus\Create.cshtml" />
+    <Content Include="Views\FixingStatus\Delete.cshtml" />
+    <Content Include="Views\FixingStatus\Details.cshtml" />
+    <Content Include="Views\FixingStatus\Edit.cshtml" />
+    <Content Include="Views\FixingStatus\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

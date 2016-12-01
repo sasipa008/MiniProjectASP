@@ -20,5 +20,7 @@ namespace FixingSystem.Models
         }
 
         public System.Data.Entity.DbSet<FixingSystem.Models.detail> details { get; set; }
+
+        public System.Data.Entity.DbSet<FixingSystem.Models.FixingStatus> FixingStatus { get; set; }
     }
 }
