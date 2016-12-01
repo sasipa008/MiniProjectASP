@@ -1,0 +1,3 @@
+<connectionStrings>
+    <add name="SchoolContext" connectionString="Server=tcp:fixing-system.database.windows.net,1433;Initial Catalog=fixing-system;Persist Security Info=False;User ID=sasipa;Password=sasipa1150.;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" providerName="System.Data.SqlClient" />
+</connectionStrings>
