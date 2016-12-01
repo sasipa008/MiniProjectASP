@@ -1,0 +1,7 @@
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\5730213008\Desktop\ASP\ASP.NET MVC Application Using Entity Framework Code First\C#\ContosoUniversity\obj\Release\ContosoUniversity.csproj.GenerateResource.Cache
